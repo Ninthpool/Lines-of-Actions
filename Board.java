@@ -1,5 +1,7 @@
 /* Skeleton Copyright (C) 2015, 2020 Paul N. Hilfinger and the Regents of the
- * University of California.  All rights reserved. */
+ * University of California.  All rights reserved. 
+ * @author Heming Wu
+ */
 package loa;
 
 import java.util.ArrayList;
